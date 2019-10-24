@@ -1,4 +1,7 @@
+- ++myVar;
+- myVar++;
+- myVar += 5;
 - var myVar;
-- document.getElementById("Id")
+- document.getElementById("Id");
 - script tag reference
 - alert("String");
