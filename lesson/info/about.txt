@@ -1,3 +1,3 @@
-Else If Statements
+Comparison Operators
 
-Link: https://youtu.be/1v1Bk3Q02Sc
+Link: https://youtu.be/LjGaaWX_NbE
