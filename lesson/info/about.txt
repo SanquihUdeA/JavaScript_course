@@ -1,3 +1,3 @@
-Booleans in JavaScript
+If Statements
 
-Link: https://youtu.be/B4ZCFdrBmbE
+Link: https://youtu.be/Lp-Du2fKoug
