@@ -1,3 +1,5 @@
+- Math.max(num1, num2, num3); // el mayor
+- Math.round(Float); // redondear
 - function getAverage (var1, var2){}
 - continue;
 - break;
