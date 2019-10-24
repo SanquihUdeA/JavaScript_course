@@ -1,3 +1,4 @@
+- function getAverage (var1, var2){}
 - continue;
 - break;
 - document.getElementsByTagName("TagName");

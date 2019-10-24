@@ -4,19 +4,23 @@
 // var myVar2 = "hi";
 // alert(myVar1 + myVar2);
 
-var links = document.getElementsByTagName("a");
+// var links = document.getElementsByTagName("a");
+// for (i = 0; i < links.length; i++) {
+//     if (i == 1) {
+//         continue;
+//     }
 
-for (i = 0; i < links.length; i++) {
-    if (i == 1) {
-        continue;
-    }
+//     console.log(links[i].outerHTML);
+//     console.log(links[i].innerText);
 
-    console.log(links[i].outerHTML);
-    console.log(links[i].innerText);
+//     if (i == 2) {
+//         break;
+//     }
+// }
+// console.log(links)
 
-    if (i == 2) {
-        break;
-    }
+function getAverage(var1, var2) {
+    var average = var1 + var2;
+    console.log(average);
+    return average;
 }
-
-console.log(links)
