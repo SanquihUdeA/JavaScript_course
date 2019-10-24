@@ -1,2 +1,3 @@
+- document.getElementById("Id")
 - script tag reference
 - alert("String")
