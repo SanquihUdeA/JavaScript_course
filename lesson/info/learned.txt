@@ -1,3 +1,5 @@
+- console.log(myVar);
+- document.write(myVar);
 - ++myVar;
 - myVar++;
 - myVar += 5;
