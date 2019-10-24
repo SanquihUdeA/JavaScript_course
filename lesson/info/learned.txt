@@ -1,3 +1,4 @@
+- Boolean(Var);
 - console.log(myVar);
 - document.write(myVar);
 - ++myVar;
