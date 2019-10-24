@@ -7,8 +7,16 @@
 var links = document.getElementsByTagName("a");
 
 for (i = 0; i < links.length; i++) {
+    if (i == 1) {
+        continue;
+    }
+
     console.log(links[i].outerHTML);
     console.log(links[i].innerText);
+
+    if (i == 2) {
+        break;
+    }
 }
 
 console.log(links)

@@ -1,3 +1,5 @@
+- continue;
+- break;
 - document.getElementsByTagName("TagName");
 - for (i=1; i<5; i++) {}
 - while (condition){}
