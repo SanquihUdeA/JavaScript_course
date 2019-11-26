@@ -1,3 +1,5 @@
+- str.split(",") //separa en un arreglo por cada ,
+- str.slice(a,b); //corta el String desde a asta b (no es necesario especificar b)
 - isNaN(var) //es un numero
 - Math.max(num1, num2, num3); // el mayor
 - Math.round(Float); // redondear
