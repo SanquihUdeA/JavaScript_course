@@ -1,3 +1,4 @@
+- var Array = []; //empty array
 - str.split(",") //separa en un arreglo por cada ,
 - str.slice(a,b); //corta el String desde a asta b (no es necesario especificar b)
 - isNaN(var) //es un numero
