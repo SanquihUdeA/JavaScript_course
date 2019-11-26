@@ -1,3 +1,3 @@
-Introduction to Objects
+Creating a new JavaScript Object
 
-Link: https://youtu.be/t-evBCCQFzM
+Link: https://youtu.be/wA5vU_HQfVI
