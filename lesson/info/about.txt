@@ -1,3 +1,3 @@
-What is the DOM in JavaScript?
+Traversing the DOM
 
-Link: https://youtu.be/H63dVFDuJDM
+Link: https://youtu.be/SowaJlX1uKA

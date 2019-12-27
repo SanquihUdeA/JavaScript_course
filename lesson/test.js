@@ -19,8 +19,8 @@
 // }
 // console.log(links)
 
-function getAverage(var1, var2) {
+/* function getAverage(var1, var2) {
     var average = var1 + var2;
     console.log(average);
     return average;
-}
+} */
