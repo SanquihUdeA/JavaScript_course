@@ -1,3 +1,5 @@
+- vas.setAttribute("class", "algo");
+- vas.getAttribute("class");
 - h1s[1].innerHTML="hola";
 - h1s=document.getElementsByTagName("h1");
 - var object = constructor(atr1,atr2){
