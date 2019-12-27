@@ -1,3 +1,4 @@
+- var.removeChild(child);
 - var.insertBefore(newLi, var.getElementsByTagName("li")[0]);
 - var.appendChild(newLi);
 - var.style.color = "red";
