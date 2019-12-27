@@ -1,3 +1,3 @@
-Removing Elements from the DOM
+Introduction to JavaScript Events
 
-Link: https://youtu.be/rBGgguNnutE
+Link: https://youtu.be/bf_9IeihQ0M
