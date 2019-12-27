@@ -1,3 +1,3 @@
-Traversing the DOM
+Changing Page Content
 
-Link: https://youtu.be/SowaJlX1uKA
+Link: https://youtu.be/FQuwArzGPYo

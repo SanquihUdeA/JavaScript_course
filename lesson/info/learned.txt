@@ -1,3 +1,5 @@
+- h1s[1].innerHTML="hola";
+- h1s=document.getElementsByTagName("h1");
 - var object = constructor(atr1,atr2){
     this.atr1: atr1,
     this.atr2: atr2,
