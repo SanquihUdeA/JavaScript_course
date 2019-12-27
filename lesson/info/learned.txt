@@ -1,3 +1,5 @@
+- var.insertBefore(newLi, var.getElementsByTagName("li")[0]);
+- var.appendChild(newLi);
 - var.style.color = "red";
 - var.setAttribute("class", "algo");
 - var.getAttribute("class");
