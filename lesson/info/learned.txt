@@ -1,5 +1,6 @@
-- vas.setAttribute("class", "algo");
-- vas.getAttribute("class");
+- var.style.color = "red";
+- var.setAttribute("class", "algo");
+- var.getAttribute("class");
 - h1s[1].innerHTML="hola";
 - h1s=document.getElementsByTagName("h1");
 - var object = constructor(atr1,atr2){
