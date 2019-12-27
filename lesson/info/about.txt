@@ -1,3 +1,3 @@
-Introduction to JavaScript Events
+The onClick Event
 
-Link: https://youtu.be/bf_9IeihQ0M
+Link: https://youtu.be/XQEfWd1lh4Q

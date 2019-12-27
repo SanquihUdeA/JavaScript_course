@@ -1,3 +1,4 @@
+- https://www.w3schools.com/js/js_events.asp
 - var.removeChild(child);
 - var.insertBefore(newLi, var.getElementsByTagName("li")[0]);
 - var.appendChild(newLi);
@@ -10,7 +11,7 @@
     this.atr1: atr1,
     this.atr2: atr2,
     atr3: function(){};
-} //creación de un objeto (clase 30)
+} //creación de un objeto
 - var Array = []; //empty array
 - str.split(",") //separa en un arreglo por cada ,
 - str.slice(a,b); //corta el String desde a asta b (no es necesario especificar b)
