@@ -1,3 +1,3 @@
-The onClick Event
+Window onLoad Event
 
-Link: https://youtu.be/XQEfWd1lh4Q
+Link: https://youtu.be/RVA4HoEE_q8
