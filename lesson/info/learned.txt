@@ -1,3 +1,5 @@
+- clearInterval(myTimer); 
+- setInterval(function, 3000); // timepo en milisegundos
 - https://www.w3schools.com/js/js_events.asp
 - var.removeChild(child);
 - var.insertBefore(newLi, var.getElementsByTagName("li")[0]);
